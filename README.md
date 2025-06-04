@@ -1,8 +1,3 @@
-<style>
-  a {
-      text-decoration: none;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Dosymzhan Kogabaev</h1>
 <h3 align="center">A passionate fullstack developer from Kazakhstan</h3>
 
