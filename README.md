@@ -48,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosymzhankogabaev&show_icons=true&locale=en" alt="dosymzhankogabaev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dosymzhankogabaev&" alt="dosymzhankogabaev" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/dosik210904?theme=dark&ext=contest" alt="dosik210904" /></p>
