@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dkogabayev@mail.ru**
 
-- ⚡ Fun fact **I play video games on my free time**
+- ⚡ Fun fact **I am trying to reach FaceIt Level 10(currently Level 8)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
