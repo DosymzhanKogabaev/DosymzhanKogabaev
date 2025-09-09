@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dosymzhan Kogabaev</h1>
 <h3 align="center">A passionate fullstack developer from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dosymzhankogabaev&label=Profile%20views&color=0e75b6&style=flat" alt="dosymzhankogabaev" /> </p>
+- 🔭 I’m currently working in [Avrora Holding](https://avh.kz/en)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dosymzhankogabaev" alt="dosymzhankogabaev" /></a> </p>
-
-- 🔭 I’m currently working on [EdRes](https://edres.com/)
-
-- 🌱 I’m currently learning **Cloudflare**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DosymzhanKogabaev?tab=repositories](https://github.com/DosymzhanKogabaev?tab=repositories)
 
