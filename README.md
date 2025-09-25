@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dosymzhankogabaev&theme=dark&card_width=678&include_all_commits=true&count_private=false)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dosymzhankogabaev&theme=dark&mode=alltime&card_width=678)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dosymzhankogabaev&theme=dark&card_width=678&include_all_commits=true&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dosymzhankogabaev&theme=rose&no-frame=false&no-bg=false&margin-w=4)
