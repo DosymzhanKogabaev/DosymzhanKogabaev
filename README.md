@@ -29,6 +29,9 @@
 ###### Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+###### Cloud Infrastructure & Engineering
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F05032?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dosymzhankogabaev&theme=dark&card_width=678&include_all_commits=true&count_private=false)<br/>
 
