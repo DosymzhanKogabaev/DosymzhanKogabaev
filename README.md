@@ -3,7 +3,7 @@
 💖 I have a strong passion for creating efficient, scalable and user-friendly web applications<br/>
 🌱 Currently learning **NestJS** and exploring modern backend architectures<br/>
 🔭 Currently working at [Avrora Holding](https://avh.kz/en)<br/>
-⚡ Fun fact **I am trying to reach FaceIt Level 10 (currently Level 9)**<br/>
+⚡ Fun fact **I am FaceIt Level 10(which I am proud of)**<br/>
 💬 Ask me about **Fullstack development**
 
 ## 🌐 My Socials:
