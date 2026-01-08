@@ -1,8 +1,8 @@
 # 😎 Hey, nice to see you here!
 👋 I'm Dosymzhan, Fullstack developer from Kazakhstan <br/>
-💖 I have a strong passion for creating efficient, scalable and user-friendly web applications<br/>
+💖 I have a strong passion for creating efficient, scalable, and user-friendly web applications<br/>
 🌱 Currently learning **NestJS** and exploring modern backend architectures<br/>
-🔭 Currently working at [Avrora Holding](https://avh.kz/en)<br/>
+🔭 Currently working at [Investbanq](https://investbanq.com/)<br/>
 ⚡ Fun fact **I am FaceIt Level 10 (which I am proud of)**<br/>
 💬 Ask me about **Fullstack development**
 
