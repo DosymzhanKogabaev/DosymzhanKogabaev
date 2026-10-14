@@ -1,43 +1,20 @@
-# 😎 Hey, nice to see you here!
-👋 I'm Dosymzhan, Fullstack developer from Kazakhstan <br/>
-💖 I have a strong passion for creating efficient, scalable, and user-friendly web applications<br/>
-🌱 Currently learning **NestJS** and exploring modern backend architectures<br/>
-🔭 Currently working at [Investbanq](https://investbanq.com/)<br/>
-⚡ Fun fact **I am FaceIt Level 10 (which I am proud of)**<br/>
-💬 Ask me about **Fullstack development**
+# Hi, I'm Dosymzhan 👋
 
-## 🌐 My Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dossymzhan%20kogabayev) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dosik210904) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkogabayev@mail.ru)
+**Senior Backend Engineer** · Node.js / TypeScript / NestJS · Almaty, Kazakhstan (UTC+5)
 
----
+I build backend systems where data correctness and reliability matter — fintech, edtech and e-commerce.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dosik210904?theme=dark&ext=contest)
+- 💼 **Now:** backend for a multi-tenant wealth-management platform at [InvestBanq](https://investbanq.com/) — transactions engine with a state machine and audit trail, idempotent AWS SQS FIFO consumers, corporate actions, P/L and portfolio metrics
+- 📦 **Before:** real-time edtech platform on Cloudflare Workers & Durable Objects (PvP games, TON wallets, vector-search feed); marketplace repricing for Kaspi / Ozon / Noon with ~2M products/day ingestion
+- 🤖 LLM features in production: Claude API with structured outputs, prompt caching and token quotas
+- 🛠 Daily driver: Claude Code, with my own skills for review and shipping
 
-## 💻 Tech Stack:
-###### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**Stack:** Node.js · TypeScript · NestJS · PostgreSQL · GraphQL · Redis/BullMQ · AWS (SQS, Lambda, S3) · Cloudflare Workers · MongoDB · Docker · React/Next.js
 
-###### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Selected public projects
+- [welcome-way](https://github.com/DosymzhanKogabaev/welcome-way) — community platform; I owned the Cloudflare Workers backend: D1/Drizzle, R2 CDN with Range/ETag caching, JWT refresh rotation, auto-generated OpenAPI docs
+- [nymb](https://github.com/DosymzhanKogabaev/nymb) — Telegram Mini App on TON: wallet connect, transactions with on-chain confirmation, NFT minting
+- [task-processor](https://github.com/DosymzhanKogabaev/task-processor) — NestJS microservice with Kafka, PostgreSQL and Redis
+- 🔒 **FinSight AI** (private) — personal-finance SaaS on Cloudflare with LLM insights; happy to walk through the architecture
 
-###### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-###### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-###### Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-###### Cloud Infrastructure & Engineering
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F05032?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dosymzhankogabaev&theme=dark&card_width=678&include_all_commits=true&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dosymzhankogabaev&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
----
-###### Passionate about building scalable applications and exploring new technologies<br />
-[![](https://visitcount.itsvg.in/api?id=dosymzhankogabaev&icon=0&color=0)](https://visitcount.itsvg.in)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/dosymzhan-kogabayev) · dkogabayev@mail.ru · Telegram [@dosikisodd](https://t.me/dosikisodd)
