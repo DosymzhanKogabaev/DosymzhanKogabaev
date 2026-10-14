@@ -17,4 +17,4 @@ I build backend systems where data correctness and reliability matter — fintec
 - [task-processor](https://github.com/DosymzhanKogabaev/task-processor) — NestJS microservice with Kafka, PostgreSQL and Redis
 - 🔒 **FinSight AI** (private) — personal-finance SaaS on Cloudflare with LLM insights; happy to walk through the architecture
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/dosymzhan-kogabayev) · dkogabayev@mail.ru · Telegram [@dosikisodd](https://t.me/dosikisodd)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/dosymzhan-kogabayev) · dkogabayev@mail.ru · Telegram [@dosikisodd](https://t.me/dosikdev)
